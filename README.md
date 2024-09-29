@@ -1,6 +1,6 @@
 # FARISALISIHAB
 create, correct, improve, implement
-const int potPin = 32;  // Pin connected to the potentiometer
+const int potPin = 32;  // pin input dari pot
 
 void setup() {
   Serial.begin(115200);
